@@ -2,7 +2,7 @@
 
 📚 Discente Universitário cursando Engenharia de Computação
 
-🔭 Tenho estudado C++, Python e pretendo me aventurar com HTML5, CSS3 e JavaScript
+🔭 Tenho estudado C++, Python, HTML5, CSS3 e JavaScript
 
 ⚡ Em migração de área, partindo da Elétrica do ramo de O&M (Operação e Manutenção) para o Desenvolvimento de Software
 
