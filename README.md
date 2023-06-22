@@ -38,8 +38,8 @@
 </br>  
 <p align="center">
 <a href="https://github.com/GubioGarcia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GubioGarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GubioGarcia&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GubioGarcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GubioGarcia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!-- Sugestões de paineis de Estastiticas do GitHub, ver repositórios <https://github.com/anuraghazra/github-readme-stats> e <https://github.com/jeniblodev/jeniblodev> -->
