@@ -2,7 +2,7 @@
 
 📚 Discente Universitário cursando Engenharia de Computação
 
-🔭 Tenho estudado C/C++, C# com .NET e QA
+🔭 Tenho estudado C# com .NET e QA, além de HTML, CSS e JS em projetos particulares
 
 ⚡ Em migração de área, partindo da Elétrica do ramo de O&M (Operação e Manutenção) para o Desenvolvimento de Software
 </br>
