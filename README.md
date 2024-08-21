@@ -1,10 +1,10 @@
 ## Olá 👋 sou o Gubio Garcia
 
-📚 Discente Universitário cursando Engenharia de Computação
+📚 Cursando Engenharia de Software
 
-🔭 Tenho estudado C# com .NET
+🔭 Tenho desenvolvido aplicações .NET com Angular
 
-⚡ Em migração de área, partindo da Elétrica do ramo de O&M (Operação e Manutenção) para o Desenvolvimento de Software
+⚡ Trabalhando atualmente como Suporte Téccnico, com passagem na área da Elétrica do ramo de O&M (Operação e Manutenção). Buscando oportunidade no Desenvolvimento de Software
 </br>
 </br>
 
