@@ -4,7 +4,7 @@
 
 🔭 Tenho desenvolvido aplicações .NET com Angular
 
-⚡ Trabalhando atualmente como Suporte Téccnico, com passagem na área da Elétrica do ramo de O&M (Operação e Manutenção). Buscando oportunidade no Desenvolvimento de Software
+⚡ Trabalhando atualmente como Suporte Técnico, com passagem na área da Elétrica do ramo de O&M (Operação e Manutenção). Buscando oportunidade no Desenvolvimento de Software
 </br>
 </br>
 
